@@ -1,0 +1,50 @@
+{
+   "ques" : [
+    "1.What is the world's largest continent?",
+    "2.What is the largest country in South America?",
+    "3.How many countries are there in Africa?",
+    "4.What river flows through Paris?",
+    "5.Which ocean is Bermuda in?",
+    "6.What percentage of the River Nile is located in Egypt?",
+    "7.In which country is the ancient city of Petra?",
+    "8. In a percentage, how much of Russia does Siberia cover?",
+    "9. San José is the capital and largest city of which Central American country?",
+    "10. What is the smallest Arabian country in the world?",
+    "11. Jamaica is considered part of which continent?",
+    "12.Riyadh is the capital city of which Arab nation?",
+    "13.Havana is the capital of what country?",
+    "14.What is the capital city of Africa's Namibia?",
+    "15.What city is built entirely upon a series of small islands?",
+    "16.What country uses the peso as its currency?",
+    "17.What country is called Land of Fire and Ice?",
+    "18. What is the official language of the Canadian province Quebec?",
+    "19.Which lake is the worlds largest lake?",
+    "20.Casablanca is a city of which country?"    
+    ],
+
+    "options" : [
+    ["Africa","Europe","Asia","America"],
+    ["Colombia","Uruguay","Argentina","Brazil"],
+    ["54","55","65","64"],
+    ["The river Seine","The river Rhome","The river Loire","The river Lot "],
+    ["Indian ocean","Atlantic ocean","Pacific ocean","Arctic ocean"],
+    ["22","32","42","52"],
+    ["Oman","Iraq","Jordan","Emirates"],
+    ["60%","65%","70%","75%"],
+    ["Mexico","Canada","Costa Rica","Jamaica"],
+    ["Jordan","Emirates","Qatar","Bahrain"],
+    ["Africa","Europe","Asia","America"],
+    ["Saudi Arabia","Jordan","Emirates","Qatar"],
+    ["Brazil","Cuba","Peru","Uruguay"],
+    ["Casablanca","Windhoek","Cairo","Nairobi"],
+    ["Venise","Amesterdam","Ibiza","Madeira"],
+    ["Canada","Costa Rica","Colombia","Jamaica"],
+    ["Norway","Sweden","Denmark","Iceland"],
+    ["English","French","Spanish","Arabic"],
+    ["Michigan","Superior","Huran","Victoria"],
+    ["Morocco","Spain","Tunisia","Senegal"]
+    ],
+
+    "ans" : [ 3, 4, 1, 1, 2, 1, 3, 4, 3, 4, 4, 1, 2, 2, 1, 3, 4, 2, 2, 1]
+
+}

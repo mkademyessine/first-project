@@ -1,0 +1,50 @@
+{
+   "ques" : [
+    "1.Which state was George W Bush governor of before becoming President?",
+    "2.What is the middle name of Angela Merkel?",
+    "3.How long does Prime Minister’s Questions last?",
+    "4.In which year did Britain originally join the European Union?",
+    "5.Who was the first major world leader confirmed to have COVID-19?",
+    "6.Who sad: “Russia is a riddle, wrapped in a mystery, inside an enigma”?",
+    "7.How long was Wuhan under lockdown because of COVID-19?",
+    "8.What is the official name of Big Ben?",
+    "9.What animal is the symbol of the US Democratic Party?",
+    "10.Who is the current King of Jordan?",
+    "11.Where did Richard Nixon sad his famous “I’m Not a Crook” press conference?",
+    "12.Who was the only British Prime Minister to be assassinated?",
+    "13.Which US President was diagnosed with polio from the waist down?",
+    "14.How old is the new Japanese Prime Minister Yoshihide Suga?",
+    "15.The Tunisian revolution was in___:",
+    "16.In 2002 the President of Turkmenistan renamed which month after himself",
+    "17.China has been elected to the Human Rights Council ______ times.",
+    "18.Who won the last election in USA,",
+    "19.How long is a French President elected for?",
+    "20.The United Kingdom officially left the European Union in what year?"   
+    ],
+
+    "options" : [
+    ["Texas","Florida","New York ","California"],
+    ["Dor","Dorothea","Lauren","Hilary"],
+    ["One Hour","Two Hours","Twenty Minutes","Thirty Minutes"],
+    ["1975","1971","1973","1972"],
+    ["Jair Bolsonaro", "Boris Johnson", "Alexander Lukashenko", "Donald Trump"],
+    ["Winston Churchill","Donald Trump","Adolf Hitler","Brak Obama"],
+    ["Five weeks","Two Months","72 days","76 days"],
+    ["Huge Bell","Elizabeth Tower","Stephen's Tower","London Tower"],
+    ["Goat","Cow","Donkey","Monkey"],
+    ["Abdullah I","Abdullah II","Abdullah III","Abdullah IV"],
+    ["Florida","Texas","New York ","California"],
+    ["Spencer Perceval","Boris Johnson","Franklin D. Roosevelt","Winston Churchill"],
+    ["Donald Trump","George W.Bush","Brak Obama","Franklin D. Roosevelt"],
+    ["68","71","72","65"],
+    ["2009","2010","2011","2012"],
+    ["January","February","April","June"],
+    ["Five","Six","Two","Four"],
+    ["Donald Trump","George W.Bush","Brak Obama","Joe Biden "],
+    ["Four years","Five years","Six years","Seven years"],
+    ["2020","2019","2016","2018"]
+    ],
+  
+    "ans" : [ 1, 2, 4, 3, 2, 1, 4, 2, 3, 2, 1, 1, 4, 3, 3, 1, 1, 4, 2, 3]
+
+}
